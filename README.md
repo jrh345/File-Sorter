@@ -1,6 +1,7 @@
 ### Disclaimer
 Always back up your files before running the program to avoid accidental data loss.
 It is very likely that your antisoftware will block the exe. In this case it may be simpler to run the .py script in the commandline or in an IDE.
+To run the script from the command line use the command "py .\File_Sorter.py" within the directory the script is found.
 
 # File-Sorter
 Simple way to organize all the files in any given folder into subfolders based on date created and file type.
