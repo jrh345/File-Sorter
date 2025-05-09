@@ -1,3 +1,7 @@
+### Disclaimer
+Always back up your files before running the program to avoid accidental data loss.
+It is very likely that your antisoftware will block the exe. In this case it may be simpler to run the .py script in the commandline or in an IDE.
+
 # File-Sorter
 Simple way to organize all the files in any given folder into subfolders based on date created and file type.
 
@@ -19,5 +23,4 @@ is designed to scan a specified folder and automatically sort its contents into 
 - Windows 10 or later.
 - .NET Framework 4.8 or higher.
 
-### Disclaimer
-Always back up your files before running the program to avoid accidental data loss.
+
